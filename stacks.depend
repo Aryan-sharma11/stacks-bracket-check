@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590404454 source:/home/aryan_/Documents/stacks/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
